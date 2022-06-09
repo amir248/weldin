@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weldin/static/css/main.40621b94.css",
-    "main.js": "/weldin/static/js/main.6737704a.js",
+    "main.js": "/weldin/static/js/main.44f67ea5.js",
     "static/js/787.7626e608.chunk.js": "/weldin/static/js/787.7626e608.chunk.js",
     "static/media/11.jpeg": "/weldin/static/media/11.0e3f6c624b63d487c2f3.jpeg",
     "static/media/7.jpeg": "/weldin/static/media/7.4b368ae916c137ca4e9d.jpeg",
@@ -21,11 +21,11 @@
     "static/media/sv.jpg": "/weldin/static/media/sv.325906dd92a9ccbe57b4.jpg",
     "index.html": "/weldin/index.html",
     "main.40621b94.css.map": "/weldin/static/css/main.40621b94.css.map",
-    "main.6737704a.js.map": "/weldin/static/js/main.6737704a.js.map",
+    "main.44f67ea5.js.map": "/weldin/static/js/main.44f67ea5.js.map",
     "787.7626e608.chunk.js.map": "/weldin/static/js/787.7626e608.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40621b94.css",
-    "static/js/main.6737704a.js"
+    "static/js/main.44f67ea5.js"
   ]
 }
