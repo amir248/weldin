@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9523144a.css",
-    "main.js": "/static/js/main.87ffbb3d.js",
-    "static/js/787.949d75fe.chunk.js": "/static/js/787.949d75fe.chunk.js",
-    "static/media/OneOgr.png": "/static/media/OneOgr.e5403a1c9410b2738ca1.png",
+    "main.css": "/static/css/main.40621b94.css",
+    "main.js": "/static/js/main.d7df62a8.js",
+    "static/js/787.7626e608.chunk.js": "/static/js/787.7626e608.chunk.js",
     "static/media/11.jpeg": "/static/media/11.0e3f6c624b63d487c2f3.jpeg",
     "static/media/7.jpeg": "/static/media/7.4b368ae916c137ca4e9d.jpeg",
     "static/media/10.jpeg": "/static/media/10.47553612c002af68d34f.jpeg",
@@ -15,17 +14,18 @@
     "static/media/5.jpeg": "/static/media/5.facf5fa9652528f6c711.jpeg",
     "static/media/1.jpeg": "/static/media/1.f657d00f01e9f90097dc.jpeg",
     "static/media/3.jpeg": "/static/media/3.5c0745dc9395d890f753.jpeg",
+    "static/media/weldiN.jpg": "/static/media/weldiN.7a842a911f9bc298afd9.jpg",
     "static/media/weldins.jpg": "/static/media/weldins.965a022572b19e6465b9.jpg",
     "static/media/14.jpeg": "/static/media/14.ce8874bb68f7499a9b24.jpeg",
     "static/media/CF.png": "/static/media/CF.7b6d51a49545c7fb727b.png",
     "static/media/sv.jpg": "/static/media/sv.325906dd92a9ccbe57b4.jpg",
     "index.html": "/index.html",
-    "main.9523144a.css.map": "/static/css/main.9523144a.css.map",
-    "main.87ffbb3d.js.map": "/static/js/main.87ffbb3d.js.map",
-    "787.949d75fe.chunk.js.map": "/static/js/787.949d75fe.chunk.js.map"
+    "main.40621b94.css.map": "/static/css/main.40621b94.css.map",
+    "main.d7df62a8.js.map": "/static/js/main.d7df62a8.js.map",
+    "787.7626e608.chunk.js.map": "/static/js/787.7626e608.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9523144a.css",
-    "static/js/main.87ffbb3d.js"
+    "static/css/main.40621b94.css",
+    "static/js/main.d7df62a8.js"
   ]
 }
